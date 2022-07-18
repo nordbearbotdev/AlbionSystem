@@ -1,0 +1,6 @@
+name: Micord
+version: 1.0
+main: xyz.adhdev.micord.Main
+description: Sync your Discord chat to your Minecraft chat
+api-version: 1.16
+author: MrAdhit
