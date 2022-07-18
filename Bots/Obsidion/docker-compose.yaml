@@ -1,0 +1,23 @@
+version: "3.7"
+services:
+  bot:
+    build: .
+    links:
+      - db
+      - redis
+    env_file:
+      - .env
+    restart: unless-stopped
+  db:
+    image: postgres:12-alpine
+    volumes:
+      - postgresdb:/var/lib/postgresql/data
+    env_file:
+      - .env
+    restart: unless-stopped
+  redis:
+    image: redis:alpine
+    restart: unless-stopped
+
+volumes:
+  postgresdb:
