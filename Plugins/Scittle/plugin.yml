@@ -1,0 +1,6 @@
+name: Scittle
+main: ru.bertr.test.Main
+version: 0.1
+authors: Commit
+description:
+commands:
