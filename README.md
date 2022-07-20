@@ -1,4 +1,5 @@
 # ***AlbionSystem***
+> Лицезия Apache 2 распространяется только на ***Albion Anticheat*** 
 
 ***AlbionSystem*** - система плагинов, ботов и античита для сервера ***[Evil Place](https://evilplace.fun)***
  
