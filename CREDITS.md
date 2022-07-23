@@ -1,6 +1,6 @@
 > If you dont speak Russian, see ***[English version]()***
 
-***Авторы [Albion Anticheat](), [[?]Server](): 
+***Авторы [Albion Anticheat](), [[?]Server](), : 
 
 
 ***
